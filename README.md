@@ -2,15 +2,21 @@
 Project 3 repository
 
 ## Create project
-Created a new repo in GitHub with the name 'datafun-03-analyticsP3'
-Added the default README.md
+Created a new repo in GitHub with the name 'datafun-03-analyticsP3' 
+
+Added the default README.md 
+
 Named the script karitaylor_analytics.py
 
 ## Clone project down to my machine
-Opened VS Code
+Opened VS Code 
+
 Used file > open folder to access the folder where I want my project to reside
-Opened a new terminal (with powershell as default)
+
+Opened a new terminal (with powershell as default) 
+
 Used the 'git clone' command to clone the project to my machine
+
 ```shell
 
 git clone site_URL
@@ -19,6 +25,7 @@ git clone site_URL
 
 ## Create a requirements.txt file
 Created a new file in my datafun-03-analyticsP3 folder labeled requirements.txt
+
 Typed requests in line 1
 
 ## Create and activate a Python virtual environment
@@ -41,6 +48,7 @@ py -m pip freeze > requirements.txt
 
 ## Create .gitignore
 Created a new file in my datafun-03-analyticsP3 folder named .gitignore
+
 Typed .venv/ into line 1
 
 ## Git add and commit
