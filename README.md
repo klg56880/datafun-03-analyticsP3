@@ -64,7 +64,9 @@ git push origin main
 
 ```
 
-
+## Specification
+This project was built to the following specification:
+- [datafun-03-spec](https://github.com/denisecase/datafun-03-spec)
 
 
 
