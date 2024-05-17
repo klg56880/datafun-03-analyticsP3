@@ -51,6 +51,9 @@ Created a new file in my datafun-03-analyticsP3 folder named .gitignore
 
 Typed .venv/ into line 1
 
+## Create docstring for .py project file
+Created a docstring on line 1 of the file titled karitaylor_analytics.py with a brief explanation of the project
+
 ## Git add and commit
 Periodically add, commit, and push files from my machine to the associated online repo using the following commands:
 ```shell
