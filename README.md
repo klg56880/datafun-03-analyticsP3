@@ -16,6 +16,7 @@ Used the 'git clone' command to clone the project to my machine
 git clone site_URL
 
 ```
+
 ## Create a requirements.txt file
 Created a new file in my datafun-03-analyticsP3 folder labeled requirements.txt
 Typed requests in line 1
@@ -37,9 +38,21 @@ py -m pip install requests
 py -m pip freeze > requirements.txt
 
 ```
+
 ## Create .gitignore
 Created a new file in my datafun-03-analyticsP3 folder named .gitignore
 Typed .venv/ into line 1
+
+## Git add and commit
+Periodically add, commit, and push files from my machine to the associated online repo using the following commands:
+```shell
+
+git add .
+git commit -m "add .gitignore, cmds to readme"
+git push origin main
+
+```
+
 
 
 
