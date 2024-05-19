@@ -1,0 +1,7 @@
+        Rank     Title                    Genre                                        Description  ... Rating  Votes Revenue (Millions) Metascore
+count   1000      1000                     1000                                               1000  ...   1000   1000               1000      1000
+unique  1000       999                      207                                               1000  ...     55    997                815        85
+top        1  The Host  Action,Adventure,Sci-Fi  A group of intergalactic criminals are forced ...  ...    7.1  97141                             
+freq       1         2                       50                                                  1  ...     52      2                128        64
+
+[4 rows x 12 columns]
