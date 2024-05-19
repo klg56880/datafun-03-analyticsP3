@@ -2,7 +2,6 @@
 
 # Standard library imports
 import csv
-import logging
 import os
 import re
 import json
@@ -14,7 +13,6 @@ from numpy import save
 import requests  
 from collections import Counter
 import pandas as pd
-import xlrd
 
 def fetch_and_write_txt_data(txt_folder_name, txt_filename, txt_url):
 
